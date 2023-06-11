@@ -1,13 +1,13 @@
 # Site settings
-title: HNUXC Blog
-SEOTitle: xc的博客 | BY Blog
+title: HNUHYX Blog
+SEOTitle: HYX的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: hnuxc@hnu.edu.com
+email: hnuhyx@hnu.edu.com
 description: "Every failure is leading towards success."
-keyword: "HNUXC, HNUXC Blog, xc的博客, xiongcan,熊灿, linux, kernel, iPhone"
-url: "http://xiongcan941.github.io"          # your host, for absolute URL
+keyword: "HNUHYX, HNUHYX Blog, HYX的博客, HYX,霍雨欣, linux, kernel"
+url: "http://hnuhyx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xiongcan941/xiongcan941.github.io.git" # you code repository
+github_repo: "https://github.com/hnuhyx/hnuhyx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     hnuxc
-zhihu_username:     hnuxc
-github_username:    xiongcan941
-facebook_username:  hnuxc
-jianshu_username:   hnuxc
-#twitter_username:   hnuxc
+# weibo_username:     hnuhyx
+zhihu_username:     hnuhyx
+github_username:    hnuhyx
+facebook_username:  hnuhyx
+jianshu_username:   hnuhyx
+#twitter_username:   hnuhyx
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-#disqus_username: xiongcan941
+#disqus_username: hnuhyx
 
 # Gitalk
 gitalk:
